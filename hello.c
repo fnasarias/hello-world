@@ -5,5 +5,7 @@ int main (void){
 	printf("There's a change here\n");
 
 	printf("When you add, it's x+y\n");
+	printf("when you subtract, it's x-y\n");
 	return 0;
+
 }
